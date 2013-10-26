@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSynth", "SimpleSynth\SimpleSynth\SimpleSynth.csproj", "{2FEB1D17-0722-4FA1-9DCD-EC1505E95401}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SimpleSynthContent", "SimpleSynth\SimpleSynthContent\SimpleSynthContent.contentproj", "{E48E6E69-8414-43FD-9311-5A6CACF5E564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FEB1D17-0722-4FA1-9DCD-EC1505E95401}.Debug|x86.ActiveCfg = Debug|x86
+		{2FEB1D17-0722-4FA1-9DCD-EC1505E95401}.Debug|x86.Build.0 = Debug|x86
+		{2FEB1D17-0722-4FA1-9DCD-EC1505E95401}.Release|x86.ActiveCfg = Release|x86
+		{2FEB1D17-0722-4FA1-9DCD-EC1505E95401}.Release|x86.Build.0 = Release|x86
+		{E48E6E69-8414-43FD-9311-5A6CACF5E564}.Debug|x86.ActiveCfg = Debug|x86
+		{E48E6E69-8414-43FD-9311-5A6CACF5E564}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
